@@ -4,19 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
----
-layout: post
-title:  "FightProof"
-date:   2016-09-18 16:46:40
-categories: FightProof
----
-
 
 I'm a film producer, a martial arts practitioner inducted into the Masters Hall of Fame, I also write in my spare time, but don't be alarmed, it's going nowhere. My production company is Pathbender Media.
 
