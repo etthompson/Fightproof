@@ -5,15 +5,15 @@ permalink: /about/
 ---
 
 
-I'm a film producer, a martial arts practitioner inducted into the Masters Hall of Fame, I also write in my spare time, but don't be alarmed, it's going nowhere. My production company is Pathbender Media.
+I'm a film producer, a martial arts practitioner inducted into the Masters Hall of Fame, I also write in my spare time, but don't be alarmed, it's going nowhere.
 
 
 ##Filmmaking
-I am a [filmmaker](http://pathbender.squarespace.com/ethompson) with a [production comany](http://pathbender.squarespace.com). Here is a little recent [press](http://pathbender.squarespace.com/press) and some [projects](http://pathbender.squarespace.com/development) I have in [development](http://pathbender.squarespace.com/development).
+[IMDb](http://www.imdb.me/ethompson)
 
 
 ##Social Media
-I'm on [Ello](https://ello.co/EThompson), [Twitter](https://twitter.com/ETThompson), [Linked in](http://www.linkedin.com/in/ethmpsn) and [Google+](https://plus.google.com/112339756947592421267/). I have a [Pinterest](http://pinterest.com/etthompson/) account because, obviously, we are all supposed to. I am also on [Quora](http://www.quora.com/ET-Thompson). If that wasn't enough, here is an [About.me](http://about.me/etthompson). I have also been a [martial arts](http://www.fightproof.blogspot.com/) practitioner for a very long time, a Masters Hall of Fame inductee. I also write in my spare time, but don't be alarmed, it's going nowhere.
+I'm on [Ello](https://ello.co/EThompson), [Twitter](https://twitter.com/ETThompson), [Linked in](http://www.linkedin.com/in/ethmpsn) and [Google+](https://plus.google.com/112339756947592421267/). I have a [Pinterest](http://pinterest.com/etthompson/) account because, obviously, we are all supposed to. I am also on [Quora](http://www.quora.com/ET-Thompson). If that wasn't enough, here is an [About.me](http://about.me/etthompson). I have also been a [martial arts](http://www.fightproof.blogspot.com/) practitioner for a very long time.
 
 
 
@@ -26,11 +26,6 @@ I was formally:
 - Kickboxing trainer for a world champion
 - The World’s Most Dangerous Receptionist
 
-I am also a lifetime martial artist and a member of The Masters Hall of Fame. I am the creator of Fight Proof™ Applied Martial Arts. I do seminars, mostly for use of force professionals.
-
-I was also told I look like Brad Pitt from behind by a very drunk lady with questionable teeth.
-
-##[Entertainment Bio](http://pathbender.squarespace.com/ethompson)
 
 ##Film Favorites
 
@@ -41,6 +36,9 @@ I was also told I look like Brad Pitt from behind by a very drunk lady with ques
 [One of My Favorite Movie Moments- The Indianapolis Speech - Jaws (7/10) Movie CLIP (1975) HD](https://youtu.be/u9S41Kplsbs)
 
 [Mad Max: Center Framed](https://vimeo.com/129314425)
+
+
+I developed Fight Proof™ Applied Martial Arts. I do seminars, mostly for use of force professionals.
 
 ##[Martial Arts Bio](http://fightproof.blogspot.com/p/about-e-t-thompson.html)
 ##Martial Arts Clips
