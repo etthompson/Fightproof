@@ -3,7 +3,7 @@ title: E T Thompson
 email: shinkick@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I make movies and do Karate.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://etthompson.com" # the base hostname & protocol for your site
 twitter_username: etthompson
 github_username:  etthompson
