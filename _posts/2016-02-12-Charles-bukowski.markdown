@@ -7,7 +7,7 @@ categories: Writing
 ---
 
 [by Maria Popova](http://www.brainpickings.org/2014/08/12/charles-bukowski-john-martin-letter/)
-{<1>}![](https://41.media.tumblr.com/3bef22290ecd4a745f044c1269c8186c/tumblr_na73zk42sk1rqpa8po1_500.jpg)
+![](https://41.media.tumblr.com/3bef22290ecd4a745f044c1269c8186c/tumblr_na73zk42sk1rqpa8po1_500.jpg)
 
 [explore-blog:](http://www.brainpickings.org/2014/08/12/charles-bukowski-john-martin-letter/)
 
